@@ -1,0 +1,7 @@
+gunicorn
+flask
+numpy
+pandas
+yfinance
+tensorflow
+scikit-learn
